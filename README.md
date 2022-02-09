@@ -1,4 +1,4 @@
-### 💾  About Microsoft365
+## 💾  About Microsoft365
 ---------------------------
 
 #### On-Premise 
